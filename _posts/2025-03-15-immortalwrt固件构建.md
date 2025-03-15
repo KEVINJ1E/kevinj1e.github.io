@@ -124,7 +124,7 @@ GitHub Action构建
 
 
 
-##### 首次设置需要配置好网络 
+**首次设置需要配置好网络** 
 
 1.LAN配置eth0 eth1 eth2
 
@@ -136,7 +136,7 @@ GitHub Action构建
 
 
 
-##### 一键安装 分区扩容 app
+**一键安装 分区扩容 app**
 
 ```bash
 # 一键安装 sirpdboy分区扩容 app
