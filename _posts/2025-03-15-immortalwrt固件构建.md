@@ -7,7 +7,9 @@ author:     "OLDK"
 header-img: "img/post-bg-20250315.jpg"
 catalog: true
 tags:
-    - 网络技术 - openwrt - immortalwrt
+    - 网络技术
+    - openwrt
+    - immortalwrt
 ---
 
 
@@ -18,7 +20,7 @@ tags:
 
 地址链接
 
-```url
+```
 https://firmware-selector.immortalwrt.org/?version=24.10.0&target=x86%2F64&id=generic
 ```
 
@@ -112,7 +114,7 @@ echo "All done!"
 
 ##### 第二步：先扩容 一键安装 分区扩容 app
 
-```base
+```
 # 一键安装 sirpdboy分区扩容 app
 opkg update
 wget -O install.sh https://cafe.cpolar.top/wkdaily/OneKeyExpand/raw/branch/main/install.sh && chmod +x install.sh && ./install.sh
@@ -133,7 +135,9 @@ GitHub Action构建
 1 、fork[我的项目](https://github.com/KEVINJ1E/AutoBuildImmortalWrt)
 
 2、点击 Action后，选择相应的平台，输入 自定义固件大小 和 路由器型号
+
 3、点击Run Workflow
+
 4、等待编译结束 在Release中下载即可
 
 视频教程
