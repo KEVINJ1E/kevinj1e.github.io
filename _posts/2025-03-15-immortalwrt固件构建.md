@@ -116,7 +116,7 @@ GitHub Action构建
 
 视频教程
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113741840515614&bvid=BV1EG6VYCER3&cid=27613203939&page=2&high_quality=1&danmaku=0&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts" width="560" height="315"></iframe>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113741840515614&bvid=BV1EG6VYCER3&cid=27613203939&page=2&high_quality=1&danmaku=0&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts" width="820" height="460"></iframe>
 
 ## 关于首次设置和备份
 
