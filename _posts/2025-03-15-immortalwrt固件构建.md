@@ -116,7 +116,7 @@ GitHub Action构建
 
 视频教程
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113741840515614&bvid=BV1EG6VYCER3&cid=27613203939&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?isOutside=true&aid=113741840515614&bvid=BV1EG6VYCER3&cid=27613203939&p=1" frameborder="no" scrolling="no" allowfullscreen="true"  sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" ></iframe>
 
 
 
