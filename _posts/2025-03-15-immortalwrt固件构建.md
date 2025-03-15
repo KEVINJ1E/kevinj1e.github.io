@@ -46,7 +46,7 @@ autocore automount base-files block-mount ca-bundle default-settings-chn dnsmasq
 # wlan_password="12345678"
 
 #
-root_password="woaizekai123!"
+root_password="password"
 lan_ip_address="192.168.10.1"
 #
 pppoe_username=""
