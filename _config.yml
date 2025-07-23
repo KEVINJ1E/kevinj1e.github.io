@@ -92,7 +92,7 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "OLDK影视", href: "https://tv.111586.xyz/" },
+    { title: "LibreTV", href: "https://tv.111586.xyz/" },
     { title: "MoonTV", href: "https://dy.111586.xyz/" },
     { title: "SUB", href: "https://sub.111586.xyz/" },
     { title: "Hux pro", href: "https://github.com/huxpro" },
